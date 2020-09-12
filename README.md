@@ -12,13 +12,13 @@
 ## Install
 
 ```
-$ npm install sort-of
+$ npm install @saxjst/sort-of
 ```
 
 ## Usage
 
 ```js
-const sortOf = require('sort-of');
+const sortOf = require('@saxjst/sort-of);
 
 const people = [
   {

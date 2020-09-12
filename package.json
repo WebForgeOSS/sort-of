@@ -1,5 +1,5 @@
 {
-  "name": "sort-of",
+  "name": "@saxjst/sort-of",
   "version": "1.0.0",
   "description": "Sort objects by the value of their key",
   "main": "index.js",
