@@ -54,15 +54,15 @@ sortOf(people, ['age'], 'asc');
 
 ## API
 
-## sortOf(arr, [path], command) ⇒ <code>Array.&lt;Number&gt;</code> \| <code>Array.&lt;Object&gt;</code>
+## sortOf(arr, [path], command) ⇒ `Number[]` \| `Object[]`
 Sort objects by the value of their key
 
 **Kind**: global function  
-**Returns**: <code>Array.&lt;Number&gt;</code> \| <code>Array.&lt;Object&gt;</code> - the sorted array  
+**Returns**: `Number[]` \| `Object[]` - the sorted array  
 
 | Param | Type | Default | Description |
 | --- | --- | --- | --- |
-| arr | <code>Array.&lt;Number&gt;</code> OR <code>Array.&lt;Object&gt;</code> |  | the array to retrieve the value from. |
+| arr | <code>Number[]</code> OR `Object[]` |  | the array to retrieve the value from. |
 | [path] | <code>Array.&lt;String&gt;</code> | <code>[]</code> | the key to sort by |
 | command | <code>String</code> |  | asc or desc |
 
