@@ -12,6 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/saxjst/sort-of.git"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "author": {
     "name": "saxjst"
   },
