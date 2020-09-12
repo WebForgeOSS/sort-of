@@ -14,11 +14,11 @@ const sortBy = {
   }
 }
 
-/* Sort objects by the value of their key
+/** Sort objects by the value of their key
  *
  * @param {Number[]|Object[]} arr - the array to retrieve the value from.
- * @param {String[]} [path=[]]
- * @param String command -
+ * @param {String[]} [path=[]] - the key to sort by
+ * @param {String} command - asc or desc
  * @return {Number[]|Object[]} the sorted array
  */
 const sortOf = (arr, path = [], command = ASC) => {
