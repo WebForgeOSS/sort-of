@@ -1,7 +1,7 @@
 {
-  "name": "js-function-templatey",
+  "name": "@saxjst/sort-of",
   "version": "1.0.0",
-  "description": "Template repo for js functions",
+  "description": "Sort objects by the value of their key",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -10,25 +10,26 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saxjst/js-function-template.git"
+    "url": "git+https://github.com/saxjst/sort-of.git"
   },
   "author": {
     "name": "saxjst"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/saxjst/js-function-template/issues"
+    "url": "https://github.com/saxjst/sort-of/issues"
   },
-  "homepage": "https://github.com/saxjst/js-function-template#readme",
+  "homepage": "https://github.com/saxjst/sort-of#readme",
   "engines": {
     "node": ">=10.16.3"
   },
   "keywords": [],
   "dependencies": {
-    "ramda": "0.27.0"
+    "ramda": "^0.27.0"
   },
   "devDependencies": {
     "coveralls": "3.0.11",
-    "jest": "26.4.2"
+    "jest": "26.4.2",
+    "group-values-by-key": "1.0.1"
   }
 }
