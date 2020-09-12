@@ -1,5 +1,5 @@
 {
-  "name": "js-function-templatey",
+  "name": "sort-of",
   "version": "1.0.0",
   "description": "Template repo for js functions",
   "main": "index.js",
@@ -29,6 +29,7 @@
   },
   "devDependencies": {
     "coveralls": "3.0.11",
+    "group-values-by-key": "^1.0.1",
     "jest": "25.2.4"
   }
 }
