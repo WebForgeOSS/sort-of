@@ -18,7 +18,7 @@ $ npm install @saxjst/sort-of
 ## Usage
 
 ```js
-const sortOf = require('@saxjst/sort-of);
+const sortOf = require('@saxjst/sort-of');
 
 const people = [
   {
