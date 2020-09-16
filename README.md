@@ -62,9 +62,9 @@ Sort objects by the value of their key
 
 | Param | Type | Default | Description |
 | --- | --- | --- | --- |
-| arr | <code>Number[]</code> OR `Object[]` |  | the array to retrieve the value from. |
-| [path] | <code>Array.&lt;String&gt;</code> | <code>[]</code> | the key to sort by |
-| command | <code>String</code> |  | asc or desc |
+| arr | `Number[]` OR `Object[]` |  | the array to retrieve the value from. |
+| [path] | `String[]` | `[]` | the key to sort by |
+| command | `String` |  | asc or desc |
 
 
 
