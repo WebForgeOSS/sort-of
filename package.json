@@ -30,6 +30,6 @@
   "devDependencies": {
     "coveralls": "3.1.0",
     "group-values-by-key": "1.0.1",
-    "jest": "26.6.3"
+    "jest": "28.1.3"
   }
 }
